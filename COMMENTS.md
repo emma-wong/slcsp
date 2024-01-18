@@ -1,6 +1,6 @@
-# Emma Wong
-# Spark Advisors Work Example
-# Jan 18, 2024
+Emma Wong  
+Spark Advisors Work Example  
+Jan 18, 2024
 
 ## How to run main.py
 
